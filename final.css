@@ -1,0 +1,96 @@
+/* IDs are represented by '#' and classes are represented by '.'*/
+/*By default navbar height is 50px*/
+/*Alex S*/
+	/* Fixed header
+	* --------------------------------------- */
+	#header, #footer{
+		position:fixed;
+        height: 50px;
+		display:block;
+		width: 100%;
+		background: #333;
+		z-index:9;
+		color: #f2f2f2;
+        text-align: center;
+	}
+
+    #header{top:0px;}
+    #footer{bottom:0px;}
+
+
+#fullpage{
+    color: white;   
+    width: 100%;
+
+}
+
+
+
+#fullpage img{
+    height: 60%;
+    width: 100%;
+    
+}
+
+
+#Project {
+    color: white;
+    
+}
+
+#Project img{
+    width: 90%; 
+}
+
+
+.slide {
+    /*background-color:yellow;*/
+}
+
+.container{
+    margin-top:50px;
+    align-items: center;
+}
+
+
+.datachart{
+    overflow-x:auto; 
+    /*background-color:red;*/
+    height:80%;
+    margin: 0px 50px 0px 50px;
+}
+
+/*Table related */
+table{
+        margin: 0 auto;
+        font-size:10px;
+        min-width:1000px;
+}
+
+
+
+.fp-controlArrow {
+    position: absolute;
+    margin-top:-64px; /* This value must always be half of the height - This does the same as above */
+
+}
+
+
+
+
+
+@media screen and (min-width: 800px) {
+    #fullpage img{
+        height: 30%;
+        width: 800px;
+    }
+    /*Table related */
+    table{
+        margin: 0 auto;
+        font-size:12px;
+    }
+    
+}
+
+
+
