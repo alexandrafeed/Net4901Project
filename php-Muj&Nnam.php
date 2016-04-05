@@ -1,6 +1,7 @@
 <h1>About Us</h1>
 <p><B>  This is a project for NET4901. We are a group of 4th year Bachelor of Information Technology students majoring in Network Technology.</p>
 <p>  We decided to divide the work to two different teams which are the backend development team and web development team.</p>
+<img src="team.JPG" style="max-width:400px;">
 <p> The backend development team consists of : <ul>
                                                <li>John Mitchell</li>
                                                <li>Syed Taqi Raza</li>

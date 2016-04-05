@@ -100,28 +100,9 @@
             
             <div class="section" data-anchor="Page2">
                 <div id='Project' class="container">
-                    <h1>Project</h1>
-                    <p>
-Pecten along the beak
-Ducks exploit a variety of food sources such as grasses, aquatic plants, fish, insects, small amphibians, worms, and small molluscs.
-
-Dabbling ducks feed on the surface of water or on land, or as deep as they can reach by up-ending without completely submerging.[3] Along the edge of the beak there is a comb-like structure called a pecten. This strains the water squirting from the side of the beak and traps any food. The pecten is also used to preen feathers and to hold slippery food items.
-
-Diving ducks and sea ducks forage deep underwater. To be able to submerge more easily, the diving ducks are heavier than dabbling ducks, and therefore have more difficulty taking off to fly.
-
-A few specialized species such as the mergansers are adapted to catch and swallow large fish.
-
-The others have the characteristic wide flat beak adapted to dredging-type jobs such as pulling up waterweed, pulling worms and small molluscs out of mud, searching for insect larvae, and bulk jobs such as dredging out, holding, turning head first, and swallowing a squirming frog. To avoid injury when digging into sediment it has no cere, but the nostrils come out through hard horn.
-
-The Guardian (British newspaper) published an article on Monday 16 March 2015 advising that ducks should not be fed with bread because it damages the health of the ducks and pollutes waterways.[4]
-
-Breeding
-
-A Muscovy duck duckling.
-The ducks are generally monogamous, although these bonds generally last only a single year. Larger species and the more sedentary species (like fast river specialists) tend to have pair-bonds that last numerous years. Most duck species breed once a year, choosing to do so in favourable conditions (spring/summer or wet seasons). Ducks also tend to make a nest before breeding, and after hatching to lead their ducklings to water. Mother ducks are very caring and protective of their young, but may abandon some of their ducklings if they are physically stuck in an area they cannot get out of (including nesting in an enclosed courtyard) or are not prospering due to genetic defects or sickness brought about by hypothermia, starvation, or disease. Ducklings can also be orphaned by inconsistent late hatching where a few eggs hatch after the mother has abandoned the nest and led her ducklings to water.[citation needed]
-
-Most domestic ducks neglect their eggs and ducklings, and their eggs must be hatched under a broody hen or artificially.
-                    </p></div>
+                    <h1>PROJECT</h1>
+                    <? php include "php-alex-project.php";?>
+                </div>
             </div><!-- end of Project-->
             
             
